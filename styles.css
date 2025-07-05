@@ -1,7 +1,7 @@
 body{
 	background-color:#f8f8f8;
 }
- .book-library {
+.book-library {
     background-color: #ffffff;
     display: flex;
     gap: 20px;
@@ -10,7 +10,7 @@ body{
     justify-content: center;
   }
 
-  .book {
+.book {
     background-color: #f8f8f8;
     border: 1px solid #ddd;
     padding: 15px;
